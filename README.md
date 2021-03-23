@@ -1,6 +1,18 @@
-👋 Merhaba
+### Hi there 👋, Merhaba 
+#### Ben panda
+![Ben panda](https://www.gencprogramci.org/wp-content/uploads/2019/10/2.jpg)
 
-Merhaba, ben panda yazılıma meraklıyım programlama dilleri öğreniyorum ve öğrenmeye çalışıyorum şuanlık discord botları kodluyorum ve bu yolda kendimi geliştirmek istiyorum.
+Yazılımla ilgileniyorum programlama dillerine meraklıyım şuan discord botu kodluyarak kendimi geliştirmeye çalışıyorum
+
+Bildiğim Diller: discord.js
+
+- 🔭 I’m currently working on Discord Botu 
+- 🌱 I’m currently learning javascript, discord.js ve node.js 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/panda01031)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/VyeFW6phdj)  
+
+.
 
 [![Panda'nın GitHub istatistikleri](https://github-readme-stats.vercel.app/api?username=panda01031)](https://github.com/anuraghazra/github-readme-stats)
 

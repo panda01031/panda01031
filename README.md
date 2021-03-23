@@ -6,8 +6,8 @@ Yazılımla ilgileniyorum programlama dillerine meraklıyım şuan discord botu 
 
 Bildiğim Diller: discord.js
 
-- 🔭 I’m currently working on Discord Botu 
-- 🌱 I’m currently learning javascript, discord.js ve node.js 
+- 🔭 Şuanda discord botu ve node.js modülleri üstünde çalışıyorum.
+- 🌱 En meraklı olduğun dil python.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/panda01031)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/VyeFW6phdj)  
